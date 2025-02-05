@@ -16,6 +16,7 @@ Creating a predictive model using scikit-learn for classifying or predicting out
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/c931b99c-3a37-47b0-a63c-19cfbae51681)
 
 
 
